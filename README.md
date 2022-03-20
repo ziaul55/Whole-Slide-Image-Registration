@@ -1,6 +1,6 @@
 ## [Whole Slide Image Registration via Multi-stained Feature Matching](https://www.sciencedirect.com/science/article/pii/S0010482522000932)
 #### Authors: Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg, Taneli Mattila and Tapio Seppänen
-#### Journal: [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) - Elsevier **||** Volume 144, May 2022, 105301
+#### Journal: [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) - Elsevier **||** Volume 144, May 2022, 105301 **||**
 ##
 
 ### Highlights
